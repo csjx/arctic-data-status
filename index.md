@@ -64,8 +64,8 @@
     </section>
     <section class="message">
         Due to a network upgrade, the Arctic Data Center will be unavailable 
-        between 11:00 PM Pacific Daylight Time on Monday June 15th and 6:30 AM 
-        Pacific Daylight Time on Tuesday June 16th. We apologize for the 
+        between 10:30 PM Pacific Daylight Time on Tuesday July 14th and 7:30 AM 
+        Pacific Daylight Time on Wednesday July 16th. We apologize for the 
         inconvenience. Please contact support@arcticdata.io if you have any questions. 
    </section>
 </article>
