@@ -34,4 +34,10 @@
         <img id="orcid-logo" src="./img/orcid_64x64.png" alt="" />
         Arctic Data Center Status
     </section>
+        <section class="message">
+        Due to a campus network upgrade, the Arctic Data Center will be unavailable 
+        between 10:00 PM Pacific Daylight Time on Wednesday August 26th and 8:00 AM 
+        Pacific Daylight Time on Thursday August 27th. We apologize for the 
+        inconvenience. Please contact support@arcticdata.io if you have any questions. 
+    </section>
 </article>
